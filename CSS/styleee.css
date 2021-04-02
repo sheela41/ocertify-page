@@ -1,0 +1,160 @@
+
+
+
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+    
+
+.navbar img{
+    border-radius: 50px;
+}
+.input-group-text{
+    background: transparent;
+}
+.cover-heading{
+    color: black;
+    text-align: center;
+    margin-right: 170px;
+    margin-top: 160px;
+
+}
+.lead{
+    color:black;
+    font-family:  sans-serif;
+    text-align: center;
+    margin-right: 170px;
+}
+.section1{
+    text-align: center;
+   
+}
+.buttons{
+    text-align: center;
+}
+.section1 img{
+    border-radius: 50%;
+    width: 25%;
+    margin-right: 240px;
+    
+    
+   
+    
+}
+.header2{
+    background-image: url('../images/gray.jpg');
+    width:1600px;
+    height:700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 10px;
+   
+}
+.buttons{
+    margin-right: 240px;
+    margin-top: 50px;
+  
+}
+.section1 h3{
+    margin-right: 240px;
+   
+    color: beige;
+}
+.headerp{
+    background-image: url('../images/leaf.gif');
+    width:900px;
+    height:700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 10px;
+}
+.headerp h2{
+    color: palevioletred;
+    margin-top: 20%;
+    text-align: center;
+    
+}
+.form-signin
+{
+    margin-left: 4%;
+}
+.form-signin h1{
+    color: black;
+    font-size: 40px;
+    font-family: Bold;
+}
+
+.container5{
+   
+    margin-left: 20%;
+    margin-right: 40%;
+
+}
+
+.h3{
+    margin-left: 48%;
+    color: white;
+}
+.sectionad3{
+    background-image: url('../images/laptop.jpg');
+    width:1600px;
+    height:900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 10px;
+}
+.checkbox{
+    color: white;
+}
+#floatingInput1{
+    
+    
+    padding-left: 50%;
+    
+    background:white;
+    padding-right: 30%;
+    
+    border: none;
+    border-bottom: 1px solid #000000;
+    
+}
+.form-floating input{
+    -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+   
+}
+#log{
+    color:black;
+    margin-left: 2%;
+    margin-top: 22%;
+   
+
+}
+#rem{
+    color:black;
+    
+}
+.container8 h1{
+    text-align: center;
+}
+.container8 h6{
+    font-family:"Times New Roman", Times, serif;
+    font-size: 20px;
+  margin-left: 10px;
+  text-align: center;
+}
+.footer{
+    background-image: url('../images/footer1.png');
+    color: white;
+    text-align: center;
+    padding:20px 40px;
+
+}
+.footer img{
+    border-radius: 50px;
+}
